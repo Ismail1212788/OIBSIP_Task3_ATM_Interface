@@ -1,1 +1,5 @@
 # OIBSIP_Task3_ATM_Interface
+# TASK 2 of OASIS INFOBYTE INTERNSHIP (ATM_Interface)
+# ITS DEVELOPED USING JAVA PROGRAMMING LANGUAGE USING NETBEANS IDE UNDER LINUX OS
+
+The ATM interface we encounter in our urban landscapes is a sophisticated system built upon the Java programming language. This intricate project comprises five distinct classes and operates as a console-based application. Upon system initiation, the user is prompted to input their unique user identification and personal identification number (PIN). Once these details are successfully verified, a plethora of ATM functionalities are unlocked, providing users with a seamless banking experience. These functionalities include accessing transaction history, making withdrawals, initiating deposits, facilitating transfers, and, when done, the option to gracefully exit the system. This multifaceted ATM interface not only ensures the security of financial transactions but also offers convenience and efficiency to users in urban environments.
